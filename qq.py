@@ -1,2 +1,2 @@
-q=10
-print(q)
+a=10
+print(a)
