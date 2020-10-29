@@ -69,7 +69,7 @@ if __name__ == "__main__":
     window.geometry('500x300')  # 这里的乘是小x
     
     # 第4步，在图形界面上设定标签
-    l = tk.Label(window, text='信号与系统 实验三', bg='white', font=('Arial', 12), width=30, height=2)
+    l = tk.Label(window, text='信号与系统 离散信号 实验三', bg='white', font=('Arial', 12), width=30, height=2)
     # 说明： bg为背景，font为字体，width为长，height为高，这里的长和高是字符的长和高，比如height=2,就是标签有2个字符这么高
     
     # 第5步，放置标签
